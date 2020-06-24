@@ -13,3 +13,5 @@ Create a Collection called TreeSet which is capable of storing String objects. T
 a) Reverse the elements of the Collection.
 b) Iterate the elements of the TreeSet using Iterator.
 c) Check if a particular element exists or not.
+
+ Implement the assignment 1 using TreeSet

@@ -1,0 +1,20 @@
+import java.util.HashSet;
+import java.util.Iterator;
+
+class Set2 {
+	public static void main(String []args) {
+
+	HashSet<String> h=new HashSet<String>();
+	h.add("Gayathri");
+	h.add("Karthick");
+	h.add("Kumaran");
+	h.add("Karthick");
+	
+	Iterator<String> it=h.iterator();
+	while(it.hasNext())
+	{
+		System.out.println(it.next());
+	}
+	
+}
+}
